@@ -31,6 +31,7 @@ The pivot table broke the fares by city type down the dates January through Apri
 
 
 ##*Analysis Results*
+  
   The first part of the analysis demonstrated there is a big difference in volume between urban, suburban, and rural cities.  Rural cities only had 125 rides compared to 625 for suburban and 1,625 for urban.  The proportion of drivers per total rides differed greatly per city type as well.  The urban cities has 2,405 drivers while the rural only had 78 drivers.  Less drivers than total rides in rural areas.  The suburban areas have a total of 490 drivers.  The amount of drivers per city type may have to do with more overnight drivers needed in the more populated areas where in the rural areas things shut down earlier in the evening.
   
   Total fares for the city types were as follows -  urban was $39,854.38, suburban was $19,356.33, and rural was $4,327.93.  Rural cities averaged a higher fare per ride at $34.62.  Suburban was right in the middle averaging $30.97 a ride.  Urban rides averaged $24.53 a ride which is around $10 less than the rural average.
@@ -45,6 +46,7 @@ The pivot table broke the fares by city type down the dates January through Apri
  Overall none of the lines cross.  The total of the fares stay in their own range per city type. Urban fares were always higher no matter what month.  Surburban fares in the middle and rural with the cheapest fares. The end of February appears to have a peak in the total fares for all 3 city types.  Urban fares were the lowest in the beginning of Janurary.  Suburban total fares had a the lowest total in the beginning of January, beginning of March, and mid-April.  The rural total fares had less fluctuation with a dip in January and the middle of February.
  
  ##*Analysis Summary*
+  
   After finishing the analysis, there are a few recommendations that can be made.  January should be targeted in all 3 city types.  Fare totals were some of the lowest across the board.  The suburban and urban totals increased as January went on but the rural cities total fare did not.  Possibly lowering fares or a marketing plan may help increase the fare totals.  
   Another area to focus are the number of drivers in urban areas.  There are many more than actual drive count.  Either drivers are not making themselves visible enough on the app or maybe there are too many drivers in the urban area.  
   More analysis could be done on the fares being charged in high traffic times.  When demand is up, are fares being increased to make more of a profit when people are more willing to pay whatever is charged. Also it would be good to explore if some drivers are willing to cover other city types.  For instance, urban drivers cover the rural cities when demand is not being met.
