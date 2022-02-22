@@ -1,7 +1,7 @@
-                            #**PyBer Analysis Written Report**
+                            # **PyBer Analysis Written Report**
 
 
-##*Overview of the Analysis*
+## *Overview of the Analysis*
   
   The purpose of this analysis was to look at PyBer ride sharing services in different types of cities and compare a few variables.  The types were broken into 3 categories of urban, suburban, and rural.  Two dataframe, city_data_df and ride_data_df were merged together so all information was in one place.  The image below shows the pyber_data_df which was the dataframe created from the two original dataframes.
   
@@ -30,7 +30,7 @@ The columns were then formatted with the final view of the pyber_summary_df appe
 The pivot table broke the fares by city type down the dates January through April.  Allowing for a look at seasonal trends in fares.
 
 
-##*Analysis Results*
+## *Analysis Results*
   
   The first part of the analysis demonstrated there is a big difference in volume between urban, suburban, and rural cities.  Rural cities only had 125 rides compared to 625 for suburban and 1,625 for urban.  The proportion of drivers per total rides differed greatly per city type as well.  The urban cities has 2,405 drivers while the rural only had 78 drivers.  Less drivers than total rides in rural areas.  The suburban areas have a total of 490 drivers.  The amount of drivers per city type may have to do with more overnight drivers needed in the more populated areas where in the rural areas things shut down earlier in the evening.
   
@@ -45,7 +45,7 @@ The pivot table broke the fares by city type down the dates January through Apri
  
  Overall none of the lines cross.  The total of the fares stay in their own range per city type. Urban fares were always higher no matter what month.  Surburban fares in the middle and rural with the cheapest fares. The end of February appears to have a peak in the total fares for all 3 city types.  Urban fares were the lowest in the beginning of Janurary.  Suburban total fares had a the lowest total in the beginning of January, beginning of March, and mid-April.  The rural total fares had less fluctuation with a dip in January and the middle of February.
  
- ##*Analysis Summary*
+ ## *Analysis Summary*
   
   After finishing the analysis, there are a few recommendations that can be made.  January should be targeted in all 3 city types.  Fare totals were some of the lowest across the board.  The suburban and urban totals increased as January went on but the rural cities total fare did not.  Possibly lowering fares or a marketing plan may help increase the fare totals.  
   Another area to focus are the number of drivers in urban areas.  There are many more than actual drive count.  Either drivers are not making themselves visible enough on the app or maybe there are too many drivers in the urban area.  
