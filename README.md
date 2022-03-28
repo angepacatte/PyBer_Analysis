@@ -26,7 +26,7 @@ The columns were then formatted with the final view of the pyber_summary_df appe
 <img width="721" alt="Screen Shot 2021-11-21 at 9 45 56 AM" src="https://user-images.githubusercontent.com/85581208/142768855-470c064e-7ae2-44ee-a25d-f84a92d39158.png">
 
 
-The pivot table broke the fares by city type down the dates January through April.  Allowing for a look at seasonal trends in fares.
+The pivot table broke the fares by city type down the dates January through April, allowing for a look at seasonal trends in fares.
 
 
 ## *Analysis Results*
@@ -39,8 +39,9 @@ The pivot table broke the fares by city type down the dates January through Apri
   
   The last analysis looking at times was converted into a line chart with a line for each city type.  The line chart below gives a good visualization of fares during the months of January through April.
   
-  ![Total Fare by City Type](https://user-images.githubusercontent.com/85581208/142781338-c61454a6-1b32-440d-bfc8-fa045ce4f847.png)
-  
+  ![image](https://user-images.githubusercontent.com/85581208/160471098-dc825182-ca1f-4d02-ae62-5becac3f6e4e.png)
+
+
  
  Overall none of the lines cross.  The total of the fares stay in their own range per city type. Urban fares were always higher no matter what month.  Surburban fares in the middle and rural with the cheapest fares. The end of February appears to have a peak in the total fares for all 3 city types.  Urban fares were the lowest in the beginning of Janurary.  Suburban total fares had a the lowest total in the beginning of January, beginning of March, and mid-April.  The rural total fares had less fluctuation with a dip in January and the middle of February.
  
