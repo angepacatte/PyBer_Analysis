@@ -3,9 +3,8 @@
 
 ## *Overview of the Analysis*
   
-  The purpose of this analysis was to look at PyBer ride sharing services in different types of cities and compare a few variables.  The types were broken into 3 categories of urban, suburban, and rural.  Two dataframe, city_data_df and ride_data_df were merged together so all information was in one place.  The image below shows the pyber_data_df which was the dataframe created from the two original dataframes.
+  The purpose of this analysis was to look at PyBer ride sharing services in different types of cities and compare a few variables.  The types were broken into 3 categories of urban, suburban, and rural.  Two dataframes, city_data_df and ride_data_df were merged together, creating the pyber_data_df.  The image below shows the pyber_data_df.
   
- 
  <img width="724" alt="Screen Shot 2021-11-21 at 9 26 41 AM" src="https://user-images.githubusercontent.com/85581208/142768151-a7279bfb-c236-411f-aae7-7c2fc1897c5c.png">
   
   
